@@ -10,5 +10,6 @@ You can use the context menu in the taskbar to:
 Key bindings<br>
 ------------
 T - toggles the clocks<br>
-H - hides the currently selected instance of Blackout
-Mouse wheel - adjusts the size of the clocks
+H - hides the currently selected instance of Blackout<br>
+Mouse wheel - adjusts the size of the clocks<br>
+Mouse wheel press - resets the size of the clocks
