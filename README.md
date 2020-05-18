@@ -1,6 +1,7 @@
 # Blackout
 Always On Display, but on PC
 
-<u>Key bindings</u><br>
+Key bindings<br>
+------------
 T - toggle clock<br>
 H - hide the currently selected instance of Blackout
